@@ -7,3 +7,4 @@ Welcome to my repository where I post my daily solutions to LeetCode problems. T
 This repository contains my solutions to various LeetCode problems. Each solution is written in C++. My goal is to solve at least one problem every day to improve my problem-solving skills.
 
 
+*Happy Coding!*
